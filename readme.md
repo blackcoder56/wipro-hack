@@ -52,5 +52,5 @@ console.log('Data not sended...');
 **Note:- Image will take 3 sec. to come from examer to friend.**
   
 ## Proof
-![alt text](./![i already tried this script this script is safe.](https://github.com/blackcoder56/wipro-hack/blob/master/friend/public/image2.jpg)
+(./![i already tried this script this script is safe.](https://github.com/blackcoder56/wipro-hack/blob/master/friend/public/image2.jpg)
 
